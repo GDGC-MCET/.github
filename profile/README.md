@@ -1,4 +1,4 @@
-🚀 GDG on Campus – Methodist College of Engineering and Technology
+# 🚀 GDG on Campus – Methodist College of Engineering and Technology
 
 Welcome to Google Developer Groups on Campus (GDG on Campus) at Methodist College of Engineering and Technology (MCET), Hyderabad!
 
@@ -6,13 +6,13 @@ We are a community of passionate students, developers, designers, and technology
 
 Our goal is to create an environment where students can explore new technologies, collaborate on exciting projects, share knowledge, and develop the skills needed to become future innovators.
 
-🌟 About Us
+## 🌟 About Us
 
 GDG on Campus MCET is a student-driven community focused on learning, collaboration, and innovation. We bring students together to explore Google's developer technologies and other emerging fields in the tech industry.
 
 Whether you're a beginner taking your first steps into coding or an experienced developer building real-world applications, there's a place for you in our community.
 
-🎯 Our Mission
+### 🎯 Our Mission
 
 - 💡 Encourage innovation and creative problem-solving.
 - 👨‍💻 Help students develop practical technical skills.
@@ -21,7 +21,7 @@ Whether you're a beginner taking your first steps into coding or an experienced 
 - 🌐 Connect students with the global developer ecosystem.
 - 📈 Support personal, technical, and professional growth.
 
-🛠️ What We Do
+## 🛠️ What We Do
 
 We organize activities that help students learn, connect, and build.
 
@@ -32,7 +32,7 @@ We organize activities that help students learn, connect, and build.
 - Project Building: Turn ideas into practical applications and open-source projects.
 - Community Events: Network, collaborate, and share knowledge with like-minded students.
 
-💻 Technologies We Explore
+### 💻 Technologies We Explore
 
 Our community encourages students to experiment with a wide range of technologies, including:
 
@@ -46,7 +46,7 @@ Our community encourages students to experiment with a wide range of technologie
 
 Our technology focus evolves with community interests and emerging trends.
 
-🤝 Join Our Community
+## 🤝 Join Our Community
 
 Are you curious about technology? Want to build projects, participate in hackathons, or connect with fellow developers?
 
@@ -60,7 +60,9 @@ You're welcome here!
 
 You don't need to be an expert to get started. Curiosity, consistency, and a willingness to learn are what matter most.
 
-🌱 Contributing
+Member of GDGC MCET and want to get added? Simply send a message with your name, roll number, department, year and github user/email to the contact person at the end. ⬇️
+
+### 🌱 Contributing
 
 We believe great things happen when people build together.
 
@@ -74,14 +76,14 @@ If you'd like to contribute to our projects:
 
 Please follow the contribution guidelines provided in each repository, if available.
 
-📍 About Our Institution
+## 📍 About Our Institution
 
 Methodist College of Engineering and Technology (MCET)
 Abids, Hyderabad, Telangana, India.
 
 Our campus community brings together students who are eager to explore technology, develop innovative solutions, and make a positive impact through collaboration.
 
-📬 Connect With Us
+## 📬 Connect With Us
 
 Stay connected with GDG on Campus MCET and be part of our growing developer community.
 
@@ -89,7 +91,7 @@ Stay connected with GDG on Campus MCET and be part of our growing developer comm
 - Instagram: https://www.instagram.com/gdgc_mcet/
 - GDG Community: https://gdg.community.dev/gdg-on-campus-methodist-college-of-engineering-technology-hyderabad-india/
 
-❤️ Our Philosophy
+## ❤️ Our Philosophy
 
 «Learn together. Build together. Grow together.»
 
