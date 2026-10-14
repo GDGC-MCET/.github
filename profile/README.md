@@ -89,7 +89,11 @@ Stay connected with GDG on Campus MCET and be part of our growing developer comm
 
 - LinkedIn: https://www.linkedin.com/company/google-developer-student-club-mcet/
 - Instagram: https://www.instagram.com/gdgc_mcet/
-- GDG Community: https://gdg.community.dev/gdg-on-campus-methodist-college-of-engineering-technology-hyderabad-india/
+- GDG Community Methodist College of Engineering & Technology: https://gdg.community.dev/gdg-on-campus-methodist-college-of-engineering-technology-hyderabad-india/
+
+## 🔗 Resources
+- GDG Hyderabad GitHub: https://github.com/GDG-Hyderabad/gdghydwebsite
+- Methodist College of Engineering & Technology Website: https://methodist.edu.in/
 
 ## ❤️ Our Philosophy
 
