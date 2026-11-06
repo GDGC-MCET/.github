@@ -103,6 +103,8 @@ We believe every student has the potential to create something meaningful. Throu
 
 ---
 
+<!--
 <p align="center">
-  <strong>Managed by @saad2134 (reach.saad@outlook.com).
+  <strong>Managed by @? (?).
 </p>
+-->
